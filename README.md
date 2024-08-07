@@ -47,7 +47,8 @@
 </div>
 
 <div align="center">
-  
+
+![GitHub Snake dark](https://github.com/nferdica/nferdica/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
