@@ -9,6 +9,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nferdica&bg_color=000000&color=c9d1d9&line=c9d1d9&point=c9d1d9&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nferdica.nferdica" />
+</div
+
 ##
 
 <!-- Skills: Programming Languages -->
@@ -47,13 +51,11 @@
 </div>
 
 <div align="center">
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nferdica/nferdica/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nferdica/nferdica/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nferdica/nferdica/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nferdica/nferdica/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nferdica/nferdica/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nferdica/nferdica/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
