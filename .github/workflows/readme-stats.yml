@@ -1,0 +1,62 @@
+name: Cache GitHub Readme Stats
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  download-assets:
+    runs-on: ubuntu-latest
+    name: Download assets
+
+    steps:
+      - name: Download stats
+        run: curl 'https://nferdica-readme-stats.vercel.app/api?username=nferdica&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github' -o stats.svg
+
+      - name: Download streak stats
+        run: curl 'https://nferdica-readme-streak-stats.vercel.app/?user=nferdica&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5' -o streak-stats.svg
+
+      - name: Download activity graph
+        run: curl 'https://nferdica-activity-graph.vercel.app/graph/?username=nferdica&theme=github-dark-dimmed&radius=6&area=true' -o activity-graph.svg
+
+      - name: Download wakatime
+        run: curl 'https://nferdica-readme-stats.vercel.app/api/wakatime?username=nferdica&range=all_time&theme=github_dark_dimmed&layout=compact' -o wakatime.svg
+
+      - name: Download top languages
+        run: curl 'https://nferdica-readme-stats.vercel.app/api/top-langs/?username=nferdica&layout=compact&langs_count=10&theme=github_dark_dimmed' -o top-langs.svg
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: assets
+          path: |
+            stats.svg
+            streak-stats.svg
+            activity-graph.svg
+            repo-card-itaucripto-php.svg
+            repo-card-rdstation-php.svg
+            wakatime.svg
+            top-langs.svg
+  push-assets:
+    runs-on: ubuntu-latest
+    name: Push assets
+    needs: [download-assets]
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v4
+        with:
+          name: assets
+          path: assets
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+        with:
+          commit_message: "chore(assets): update cached GRS files"
+          branch: main
+          commit_user_name: nferdica
+          commit_user_email: nferdica@outlook.com
+          commit_author: Nathan Ferdinando <nferdica@outlook.com>
