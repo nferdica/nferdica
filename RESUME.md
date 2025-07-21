@@ -1,4 +1,4 @@
-[EN](RESUME.md) | PT-Br
+[PT](RESUME-PT.md) | EN
 
 # Nathan Ferdinando ([LinkedIn](https://www.linkedin.com/in/nferdica))
 #### Full-Stack Developer | Laravel · Angular · React · Node.js · CI/CD · REST APIs
