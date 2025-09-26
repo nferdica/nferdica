@@ -3,7 +3,7 @@
 
 ## Hey, I'm Nathan Ferdinando!
 
-I'm Pleno Software Engineer from Paraná, Brazil.
+I'm Senior Software Engineer from Paraná, Brazil.
 
 I appreciate and encourage the creation of simple solutions, clean code, responsive and symmetrical designs. I like to think about my codes and know that I created a true work of art, paying attention to the smallest details. I'm almost as perfectionist as Steve Jobs' father, who was even concerned with the wood at the bottom of drawers.
 
