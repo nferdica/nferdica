@@ -19,12 +19,7 @@ I believe that the future will be entirely in the clouds and that web applicatio
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://raw.githubusercontent.com/nferdica/nferdica/main/assets/activity-graph.svg" alt="nferdica" width=99.8% /></a>
 
 ---
-### Some public projects I've worked on
-
-[www.nferdica.com](https://www.nferdica.com/) (My Project For Freelance Jobs)<br>
-[www.lumenapratas.com.br](http://www.lumenapratas.com.br/) (Lumena Pratas, Freelancer)<br>
-[www.sdtelemedicina.com](https://www.sdtelemedicina.com/) (SD Telemedicina)<br>
-[www.clubmed.digital.com.br](https://www.clubmed.digital/) (Clubmed Saúde)<br>
+[See my public projects.]()
 
 ---
 ### Some languages, standards, technologies and platforms that I've used
