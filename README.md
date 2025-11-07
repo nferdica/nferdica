@@ -31,6 +31,8 @@ I believe that the future will be entirely in the clouds and that web applicatio
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Langs"><img src="https://raw.githubusercontent.com/nferdica/nferdica/main/assets/top-langs.svg" alt="nferdica" width=48% /></a>
 </div>
 
+[See my badges.](BADGES.md)
+
 ---
 
 <div align="center">
