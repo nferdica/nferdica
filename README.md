@@ -19,9 +19,6 @@ I believe that the future will be entirely in the clouds and that web applicatio
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://raw.githubusercontent.com/nferdica/nferdica/main/assets/activity-graph.svg" alt="nferdica" width=99.8% /></a>
 
 ---
-[See my public projects.]()
-
----
 ### Some languages, standards, technologies and platforms that I've used
 
 [React](https://react.dev/), [Next.js](https://nextjs.org/), [React Native](https://reactnative.dev/), [Webpack](https://webpack.js.org/), [Docker](https://www.docker.com/), Git, [GitHub Actions](https://docs.github.com/en/actions), [TypeScript](https://www.typescriptlang.org/), JavaScript, [JestJS](https://jestjs.io/), [Vitest](https://vitest.dev/), [SASS](https://sass-lang.com/), [Node.js](https://nodejs.org/en), [NPM](https://www.npmjs.com/), [HTML](https://html.com/), CSS, [MongoDB](https://www.mongodb.com/), [Scrum](https://www.scrum.org/), Kanban, TDD, DDD, SOLID, [Angular](https://angular.io/), [Vue.js](https://vuejs.org/), [PHP](https://www.php.net/), [Wordpress](https://wordpress.com/), jQuery, [Bootstrap](https://getbootstrap.com/), [Materialize](https://materializecss.com/), [Ionic](https://ionicframework.com/), [Express](https://expressjs.com/), [Axios](https://axios-http.com/), [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), SQL Server, API, CI/CD, Linux, Apache, [Kafka](https://kafka.apache.org/), NGINX, PDO, ORM, MySQL Workbench, [Postman](https://www.postman.com/),  Bash, [AWS](https://aws.amazon.com/), [Heroku](https://www.heroku.com/), [RabbitMQ](https://www.rabbitmq.com/), EC2, S3, Serverless, Microsrvices, [Grafana](https://grafana.com/), [Terraform](https://www.terraform.io/), [Vercel](https://vercel.com/)
@@ -47,6 +44,8 @@ I believe that the future will be entirely in the clouds and that web applicatio
 
 [Portfolio](https://www.nferdica.com) |
 [LinkedIn](https://www.linkedin.com/in/nferdica/) |
-[Instagram](https://instagram.com/nferdica) |
-[Twitter](https://twitter.com/nferdica)
+[X](https://twitter.com/nferdica) | 
+[LeetCode](https://leetcode.com/u/nferdica/) |
+[Boot](https://www.boot.dev/u/nferdica) |
+[Codeforces](https://codeforces.com/profile/nferdica)
 
