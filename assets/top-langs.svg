@@ -150,7 +150,7 @@
           data-testid="lang-progress"
           x="182.56"
           y="0"
-          width="32.54"
+          width="32.55"
           height="8"
           fill="#e34c26"
         />
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="215.1"
+          x="215.11"
           y="0"
           width="10.68"
           height="8"
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="225.78"
+          x="225.79000000000002"
           y="0"
-          width="19.78"
+          width="19.77"
           height="8"
           fill="#663399"
         />
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="235.56"
+          x="235.56000000000003"
           y="0"
           width="17.25"
           height="8"
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="242.81"
+          x="242.81000000000003"
           y="0"
           width="16.03"
           height="8"
@@ -198,7 +198,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.84"
+          x="248.84000000000003"
           y="0"
           width="10.52"
           height="8"
@@ -208,7 +208,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.36"
+          x="249.36000000000004"
           y="0"
           width="10.36"
           height="8"
@@ -218,7 +218,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.72000000000003"
+          x="249.72000000000006"
           y="0"
           width="10.29"
           height="8"
@@ -245,7 +245,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 13.01%
+        HTML 13.02%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
