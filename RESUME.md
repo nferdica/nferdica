@@ -2,7 +2,7 @@
 
 # Nathan Ferdinando ([LinkedIn](https://www.linkedin.com/in/nferdica))
 
-#### Lead Software Engineer
+#### Software Engineer
 
 Maringá, Brazil · nferdica@outlook.com · +55 (44) 98441-7008
 
@@ -30,7 +30,7 @@ Senior engineer responsible for two company products, leading all architecture, 
 
 ---
 
-### Senior Lead Software Engineer
+### Senior Software Engineer
 
 > ##### GameSe.gg · Contract
 > _Sep 2025 – Present_
