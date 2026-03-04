@@ -47,7 +47,5 @@ I believe that the future will be entirely in the clouds and that web applicatio
 [Portfolio](https://nferdica.me) |
 [LinkedIn](https://www.linkedin.com/in/nferdica/) |
 [X](https://twitter.com/nferdica) | 
-[LeetCode](https://leetcode.com/u/nferdica/) |
-[Boot](https://www.boot.dev/u/nferdica) |
 [Codeforces](https://codeforces.com/profile/nferdica)
 
