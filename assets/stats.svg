@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Nathan Ferdinando's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits  : 5979, Total PRs: 1587, Total Issues: 248, Contributed to (last year): 20</desc>
+        <desc id="descId">Total Commits  : 5943, Total PRs: 1577, Total Issues: 248, Contributed to (last year): 17</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 64.68903560473234;
+        stroke-dashoffset: 64.70581545580013;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >6k</text>
+      >5.9k</text>
     </g>
   </g><g transform="translate(0, 28)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >20</text>
+      >17</text>
     </g>
   </g>
     </svg>
