@@ -8,9 +8,12 @@ Maringá, PR, Brasil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](h
 
 ## Sobre
 
-Engenheiro de software full-stack com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Atualmente lidera todas as decisões de arquitetura e escalabilidade de dois produtos na Fibercom enquanto reescreve sozinho uma plataforma de e-sports com R$ 250 mil de investimento-anjo — ambos entregues através da sua própria empresa de software, a UAITY. Progrediu de trainee a engenheiro sênior/líder em menos de um ano, com foco em microserviços, aplicações mobile multiplataforma e entregas de alto impacto.
+Engenheiro de software full-stack com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Atualmente lidera a arquitetura e a escalabilidade de dois produtos de cliente enquanto reescreve sozinho uma plataforma de e-sports com R$ 250 mil de investimento-anjo — tudo entregue através da sua própria empresa de software, a UAITY. Foco em microserviços, aplicações mobile multiplataforma e entregas de alto impacto.
 
-**Stack Principal**: TypeScript · Node.js · NestJS · Angular · Laravel · PHP · React Native · Flutter · Python · PostgreSQL · MySQL · Docker · Git · CI/CD · Microserviços
+**Frontend**: TypeScript · JavaScript · React · Next.js · Angular · Vue.js · React Native · Flutter · HTML/CSS · Tailwind CSS
+**Backend**: NestJS · Node.js · Laravel · PHP · Python · REST APIs · MySQL · PostgreSQL · MongoDB
+**DevOps & Cloud**: Docker · AWS · CI/CD · GitHub Actions · Kafka · RabbitMQ · NGINX · Linux
+**Práticas**: Scrum · TDD · DDD · SOLID · Microserviços · Git
 
 ## Experiência Profissional
 
@@ -30,6 +33,8 @@ Engenheiro de software full-stack com experiência em arquitetura de sistemas, l
 - Migrou a aplicação de Laravel monolítico para NestJS + Angular com arquitetura híbrida monólito + microserviços.
 - Definiu e implementou toda a arquitetura do zero — modelagem de dados, estrutura de API, estratégia de deploy, padrões de código e pipelines de CI/CD.
 - Gerencia o ciclo completo de desenvolvimento como único engenheiro, do levantamento de requisitos ao deploy em produção.
+
+**Produtos próprios** — projetou e entregou o AIME, plataforma SaaS vertical para clínicas e consultórios (agenda, prontuário eletrônico, atendimento assistido por IA, CRM, financeiro), além de Quem Contrato, Rivus e Ervanza.
 
 **Stack**: NestJS · Angular · Flutter · React Native · TypeScript · PostgreSQL · Microserviços
 
@@ -89,31 +94,10 @@ Desenvolveu um sistema de controle de acesso físico integrando hardware (Arduin
 
 Suporte técnico a sistemas de gestão de saúde pública, atendendo UPAs, UBSs e unidades municipais de saúde. Implantou e treinou equipes em novas instalações, construiu relatórios gerenciais customizados com JasperReports e levantou requisitos com usuários finais — atuando como ponte entre as unidades de saúde e o time de desenvolvimento.
 
----
-
-### Assistente Administrativo
-
-> ##### Rivesa Volvo · Tempo integral
-> _Jan 2022 – Abr 2023_
-> _Maringá, PR_
-
-Gestão de faturamento de veículos, desenvolvimento de dashboards interativos com Power BI para decisão executiva e criação de planilhas automatizadas com VBA — primeiros passos na programação que despertaram a transição para a carreira em tecnologia.
-
----
-
-### Assistente de Logística / Jovem Aprendiz
-
-> ##### Neodent · Tempo integral
-> _Jan 2019 – Jul 2021_
-> _Maringá, PR_
-
-Atuou em logística e financeiro em empresa líder de implantes dentários. Cuidou de controle de estoque, expedição de pedidos, processamento de notas fiscais e rotinas administrativas do departamento financeiro.
-
 ## Projetos Pessoais
 
 - **Bots Hermes (privado)** — Plataforma pessoal de agentes de IA em Python: assistente financeiro autônomo que espelha dados de Open Finance em SQLite e expõe 24+ ferramentas a um agente LLM via MCP, com entrega por Telegram, agendamento via systemd, backups criptografados em nuvem e CI. Roda sem supervisão em VPS hardened, com 500+ testes automatizados.
 - **[brazil-visible](https://github.com/nferdica/brazil-visible) / [brazil-visible-sdk](https://github.com/nferdica/brazil-visible-sdk)** — Toolkit de dados abertos do governo brasileiro: 93+ APIs públicas catalogadas e SDK TypeScript com 22 módulos e 97 métodos tipados (IBGE, BCB, CGU, TSE, Receita Federal), zero configuração.
-- **[nferdica.me](https://nferdica.me)** — Site pessoal e portfólio.
 
 ## Formação
 
@@ -122,16 +106,9 @@ Atuou em logística e financeiro em empresa líder de implantes dentários. Cuid
 > ##### UNICV – Centro Universitário Cidade Verde
 > _2022 – 2025 (concluído)_
 
-## Cursos & Certificações
+## Certificações
 
-Mais de 1.000 horas de formação técnica, incluindo:
-
-- Desenvolvimento Full-Stack com JavaScript & TypeScript (200 h + 90 h)
-- JavaScript & TypeScript do Básico ao Avançado (146 h)
-- Desenvolvimento Web (120 h) · Desenvolvimento JavaScript (95 h)
-- Laravel (71 h) · PHP & Laravel (57 h) · Angular (45 h)
-- Linux (40 h) · Git & GitHub (40 h) · Introduction to Linux (LFS101)
-- Docker, Bootstrap, Tailwind, Figma, HTML5, WordPress, algoritmos e lógica de programação
+- Introduction to Linux (LFS101) · The Linux Foundation
 
 ## Idiomas
 

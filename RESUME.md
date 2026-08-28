@@ -8,9 +8,12 @@ Maringá, Brazil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](https
 
 ## About
 
-Full-stack software engineer with experience in systems architecture, technical leadership, and building products from the ground up. Currently leading all architecture and scalability decisions for two products at Fibercom while single-handedly rewriting an e-sports platform backed by R$ 250K in angel investment — both delivered through his own software company, UAITY. Rapidly progressed from trainee to senior/lead engineer in under a year, with a focus on microservices, cross-platform mobile applications, and high-impact deliveries.
+Full-stack software engineer with experience in systems architecture, technical leadership, and building products from the ground up. Currently leads architecture and scalability for two client products while single-handedly rewriting an e-sports platform backed by R$ 250K in angel investment — all delivered through his own software company, UAITY. Focused on microservices, cross-platform mobile applications, and high-impact deliveries.
 
-**Core Stack**: TypeScript · Node.js · NestJS · Angular · Laravel · PHP · React Native · Flutter · Python · PostgreSQL · MySQL · Docker · Git · CI/CD · Microservices
+**Frontend**: TypeScript · JavaScript · React · Next.js · Angular · Vue.js · React Native · Flutter · HTML/CSS · Tailwind CSS
+**Backend**: NestJS · Node.js · Laravel · PHP · Python · REST APIs · MySQL · PostgreSQL · MongoDB
+**DevOps & Cloud**: Docker · AWS · CI/CD · GitHub Actions · Kafka · RabbitMQ · NGINX · Linux
+**Practices**: Scrum · TDD · DDD · SOLID · Microservices · Git
 
 ## Professional Experience
 
@@ -30,6 +33,8 @@ Full-stack software engineer with experience in systems architecture, technical 
 - Migrated the application from monolithic Laravel to NestJS + Angular with a hybrid monolithic + microservices architecture.
 - Defined and implemented the entire architecture from scratch — data modeling, API structure, deployment strategy, code standards, and CI/CD pipelines.
 - Managing the full development lifecycle as the only engineer, from requirements gathering to production deployment.
+
+**Own products** — designed and delivered AIME, a vertical SaaS platform for clinics and medical practices (scheduling, electronic health records, AI-assisted care, CRM, billing), plus Quem Contrato, Rivus, and Ervanza.
 
 **Stack**: NestJS · Angular · Flutter · React Native · TypeScript · PostgreSQL · Microservices
 
@@ -89,31 +94,10 @@ Developed a physical access control system integrating hardware (Arduino + elect
 
 Technical support for public healthcare management systems, serving UPAs, UBSs, and municipal health units. Deployed and trained staff on new system installations, built custom management reports with JasperReports, and gathered requirements from end users — acting as the bridge between healthcare facilities and the development team.
 
----
-
-### Administrative Assistant
-
-> ##### Rivesa Volvo · Full-time
-> _Jan 2022 – Apr 2023_
-> _Maringá, PR_
-
-Vehicle invoicing management, development of interactive dashboards with Power BI for executive decision-making, and creation of VBA-automated spreadsheets — early steps into programming that sparked the transition to a technology career.
-
----
-
-### Logistics Assistant / Young Apprentice
-
-> ##### Neodent · Full-time
-> _Jan 2019 – Jul 2021_
-> _Maringá, PR_
-
-Worked in logistics and finance at a leading dental implant company. Handled inventory control, order fulfillment, invoice processing, and financial department administrative routines.
-
 ## Personal Projects
 
 - **Hermes bots (private)** — Personal AI-agent platform in Python: an autonomous finance assistant that mirrors Open Finance data into SQLite and exposes 24+ tools to an LLM agent over MCP, with Telegram delivery, systemd scheduling, encrypted cloud backups, and CI. Runs unattended on a hardened VPS, backed by 500+ automated tests.
 - **[brazil-visible](https://github.com/nferdica/brazil-visible) / [brazil-visible-sdk](https://github.com/nferdica/brazil-visible-sdk)** — Brazilian government open data toolkit: 93+ public APIs cataloged and a TypeScript SDK with 22 modules and 97 typed methods (IBGE, BCB, CGU, TSE, Receita Federal), zero config.
-- **[nferdica.me](https://nferdica.me)** — Personal site and portfolio.
 
 ## Education
 
@@ -122,16 +106,9 @@ Worked in logistics and finance at a leading dental implant company. Handled inv
 > ##### UNICV – Centro Universitário Cidade Verde
 > _2022 – 2025 (completed)_
 
-## Training & Certifications
+## Certifications
 
-Over 1,000 hours of technical training, including:
-
-- Full-Stack Development with JavaScript & TypeScript (200 h + 90 h)
-- JavaScript & TypeScript from Basic to Advanced (146 h)
-- Web Development (120 h) · JavaScript Development (95 h)
-- Laravel (71 h) · PHP & Laravel (57 h) · Angular (45 h)
-- Linux (40 h) · Git & GitHub (40 h) · Introduction to Linux (LFS101)
-- Docker, Bootstrap, Tailwind, Figma, HTML5, WordPress, algorithms and programming logic
+- Introduction to Linux (LFS101) · The Linux Foundation
 
 ## Languages
 
