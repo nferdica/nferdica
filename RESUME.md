@@ -8,7 +8,7 @@ Maringá, Brazil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](https
 
 ## About
 
-Full-stack software engineer with experience in systems architecture, technical leadership, and building products from the ground up. Currently leading all architecture and scalability decisions for two products at Fibercom, while also single-handedly rewriting an e-sports platform backed by R$ 250K in angel investment. Rapidly progressed from trainee to senior/lead engineer in under a year, with a focus on microservices, cross-platform mobile applications, and high-impact deliveries.
+Full-stack software engineer with experience in systems architecture, technical leadership, and building products from the ground up. Currently leading all architecture and scalability decisions for two products at Fibercom while single-handedly rewriting an e-sports platform backed by R$ 250K in angel investment — both delivered through his own software company, UAITY. Rapidly progressed from trainee to senior/lead engineer in under a year, with a focus on microservices, cross-platform mobile applications, and high-impact deliveries.
 
 **Core Stack**: TypeScript · Node.js · NestJS · Angular · Laravel · PHP · React Native · Flutter · Python · PostgreSQL · MySQL · Docker · Git · CI/CD · Microservices
 
@@ -16,31 +16,22 @@ Full-stack software engineer with experience in systems architecture, technical 
 
 ### Senior Software Engineer
 
-> ##### Fibercom Telecomunicações · Full-time
+> ##### UAITY — own software company · Founder / contractor (PJ)
 > _Sep 2025 – Present_
-> _Maringá, PR · Remote_
+> _Remote · Clients: Fibercom Telecomunicações, GameSe_
 
-Senior engineer responsible for two company products, leading all architecture, scalability, and technical implementation decisions.
+**Fibercom Telecomunicações** — senior engineer responsible for two company products, leading all architecture, scalability, and technical implementation decisions:
 
-**White-Label Mobile App Platform for ISPs** — Product that generates personalized mobile apps for internet service providers, allowing each ISP to have its own branded app. Architected the system using microservices to support multiple providers simultaneously with data isolation. Full-stack development: NestJS (back-end), Angular (admin panel), and Flutter (mobile).
+- White-Label Mobile App Platform for ISPs — architected a microservices system generating personalized mobile apps for internet providers with data isolation. Full-stack: NestJS (back-end), Angular (admin panel), Flutter (mobile).
+- Field Technician Marketplace — Uber-style platform connecting ISPs with network installation and maintenance technicians. Built with React Native (mobile) and NestJS (API), including geolocation and work order management.
 
-**Field Technician Marketplace** — Uber-style platform connecting ISPs with network installation and maintenance technicians. Built the mobile app in React Native and the API in NestJS, including geolocation and work order management.
+**GameSe** — sole engineer responsible for the complete rewrite of an e-sports tournament management platform backed by R$ 250K in angel investment:
 
-**Stack**: NestJS · Angular · Flutter · React Native · TypeScript · Microservices
+- Migrated the application from monolithic Laravel to NestJS + Angular with a hybrid monolithic + microservices architecture.
+- Defined and implemented the entire architecture from scratch — data modeling, API structure, deployment strategy, code standards, and CI/CD pipelines.
+- Managing the full development lifecycle as the only engineer, from requirements gathering to production deployment.
 
----
-
-### Senior Software Engineer
-
-> ##### GameSe.gg · Contract
-> _Sep 2025 – Present_
-> _Remote_
-
-Sole engineer responsible for the complete rewrite of an e-sports tournament management platform backed by R$ 250K in angel investment. Migrated the application from monolithic Laravel to NestJS + Angular with a hybrid monolithic + microservices architecture.
-
-Defined and implemented the entire architecture from scratch — data modeling, API structure, deployment strategy, code standards, and CI/CD pipelines. Managing the full development lifecycle as the only engineer, from requirements gathering to production deployment.
-
-**Stack**: NestJS · Angular · TypeScript · PostgreSQL · Microservices
+**Stack**: NestJS · Angular · Flutter · React Native · TypeScript · PostgreSQL · Microservices
 
 ---
 

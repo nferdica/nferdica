@@ -8,7 +8,7 @@ Maringá, PR, Brasil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](h
 
 ## Sobre
 
-Engenheiro de software full-stack com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Atualmente lidera todas as decisões de arquitetura e escalabilidade de dois produtos na Fibercom, enquanto reescreve sozinho uma plataforma de e-sports com R$ 250 mil de investimento-anjo. Progrediu de trainee a engenheiro sênior/líder em menos de um ano, com foco em microserviços, aplicações mobile multiplataforma e entregas de alto impacto.
+Engenheiro de software full-stack com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Atualmente lidera todas as decisões de arquitetura e escalabilidade de dois produtos na Fibercom enquanto reescreve sozinho uma plataforma de e-sports com R$ 250 mil de investimento-anjo — ambos entregues através da sua própria empresa de software, a UAITY. Progrediu de trainee a engenheiro sênior/líder em menos de um ano, com foco em microserviços, aplicações mobile multiplataforma e entregas de alto impacto.
 
 **Stack Principal**: TypeScript · Node.js · NestJS · Angular · Laravel · PHP · React Native · Flutter · Python · PostgreSQL · MySQL · Docker · Git · CI/CD · Microserviços
 
@@ -16,31 +16,22 @@ Engenheiro de software full-stack com experiência em arquitetura de sistemas, l
 
 ### Engenheiro de Software Sênior
 
-> ##### Fibercom Telecomunicações · Tempo integral
+> ##### UAITY — empresa própria de software · Fundador / contratado (PJ)
 > _Set 2025 – Atual_
-> _Maringá, PR · Remoto_
+> _Remoto · Clientes: Fibercom Telecomunicações, GameSe_
 
-Engenheiro sênior responsável por dois produtos da empresa, liderando todas as decisões de arquitetura, escalabilidade e implementação técnica.
+**Fibercom Telecomunicações** — engenheiro sênior responsável por dois produtos da empresa, liderando todas as decisões de arquitetura, escalabilidade e implementação técnica:
 
-**Plataforma White-Label de Apps para Provedores** — Produto que gera aplicativos móveis personalizados para provedores de internet, permitindo que cada provedor tenha seu app de marca própria. Arquitetura do sistema em microserviços para atender múltiplos provedores simultaneamente com isolamento de dados. Desenvolvimento full-stack: NestJS (back-end), Angular (painel administrativo) e Flutter (mobile).
+- Plataforma White-Label de Apps para Provedores — arquitetou um sistema em microserviços que gera aplicativos móveis personalizados para provedores de internet com isolamento de dados. Full-stack: NestJS (back-end), Angular (painel administrativo), Flutter (mobile).
+- Marketplace de Técnicos de Campo — plataforma estilo Uber conectando provedores a técnicos de instalação e manutenção de rede. Construída com React Native (mobile) e NestJS (API), com geolocalização e gestão de ordens de serviço.
 
-**Marketplace de Técnicos de Campo** — Plataforma estilo Uber conectando provedores a técnicos de instalação e manutenção de rede. App mobile em React Native e API em NestJS, com geolocalização e gestão de ordens de serviço.
+**GameSe** — único engenheiro responsável pela reescrita completa de uma plataforma de gestão de torneios de e-sports com R$ 250 mil de investimento-anjo:
 
-**Stack**: NestJS · Angular · Flutter · React Native · TypeScript · Microserviços
+- Migrou a aplicação de Laravel monolítico para NestJS + Angular com arquitetura híbrida monólito + microserviços.
+- Definiu e implementou toda a arquitetura do zero — modelagem de dados, estrutura de API, estratégia de deploy, padrões de código e pipelines de CI/CD.
+- Gerencia o ciclo completo de desenvolvimento como único engenheiro, do levantamento de requisitos ao deploy em produção.
 
----
-
-### Engenheiro de Software Sênior
-
-> ##### GameSe.gg · Contrato
-> _Set 2025 – Atual_
-> _Remoto_
-
-Único engenheiro responsável pela reescrita completa de uma plataforma de gestão de torneios de e-sports com R$ 250 mil de investimento-anjo. Migração da aplicação de Laravel monolítico para NestJS + Angular com arquitetura híbrida monólito + microserviços.
-
-Definiu e implementou toda a arquitetura do zero — modelagem de dados, estrutura de API, estratégia de deploy, padrões de código e pipelines de CI/CD. Gerencia o ciclo completo de desenvolvimento como único engenheiro, do levantamento de requisitos ao deploy em produção.
-
-**Stack**: NestJS · Angular · TypeScript · PostgreSQL · Microserviços
+**Stack**: NestJS · Angular · Flutter · React Native · TypeScript · PostgreSQL · Microserviços
 
 ---
 
