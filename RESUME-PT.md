@@ -2,20 +2,24 @@ PT | [EN](RESUME.md)
 
 # Nathan Ferdinando ([LinkedIn](https://www.linkedin.com/in/nferdica))
 
-#### Engenheiro de Software
+#### Engenheiro de Software Sênior
 
 Maringá, PR, Brasil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](https://github.com/nferdica) · [Portfólio](https://nferdica.me)
 
-## Sobre
+## Resumo
 
-Engenheiro de software full-stack com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Atualmente constrói e opera quatro produtos no Grupo 44 — incluindo um SaaS clínico com atendimento assistido por IA rodando em produção — depois de liderar a arquitetura e a entrega de dois produtos na Fibercom. Foco em microserviços, aplicações mobile multiplataforma e entregas de alto impacto.
+Engenheiro de software sênior full-stack especializado em TypeScript/Node.js, com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Atualmente constrói e opera quatro produtos no Grupo 44 — incluindo um SaaS clínico com atendimento assistido por IA rodando em produção — depois de liderar a arquitetura e a entrega de dois produtos na Fibercom. Foco em microserviços, aplicações mobile multiplataforma, sistemas com IA e entregas de alto impacto.
 
-**Frontend**: TypeScript · JavaScript · React · Next.js · Angular · Vue.js · React Native · Flutter · HTML/CSS · Tailwind CSS
-**Backend**: NestJS · Node.js · Laravel · PHP · Python · REST APIs · MySQL · PostgreSQL · MongoDB
-**DevOps & Cloud**: Docker · AWS · CI/CD · GitHub Actions · Kafka · RabbitMQ · NGINX · Linux
-**Práticas**: Scrum · TDD · DDD · SOLID · Microserviços · Git
+## Habilidades
 
-## Experiência Profissional
+**Linguagens**: TypeScript · JavaScript · PHP · Python · Dart · SQL
+**Frontend**: React · Next.js · Angular · Vue.js · React Native · Flutter · Tailwind CSS
+**Backend**: NestJS · Node.js · Fastify · Laravel · REST APIs · Prisma · PostgreSQL · MySQL · MongoDB · Redis
+**IA & Agentes**: Integrações com LLM (Large Language Model) — OpenAI, Gemini, Groq, AssemblyAI · MCP (Model Context Protocol) · agentes autônomos
+**DevOps & Cloud**: Docker · AWS · CI/CD (GitHub Actions) · Kafka · RabbitMQ · BullMQ · NGINX · Linux
+**Práticas**: Scrum · TDD (Test-Driven Development) · DDD · SOLID · Microserviços · Git
+
+## Experiência
 
 ### Engenheiro de Software Sênior
 
@@ -23,12 +27,11 @@ Engenheiro de software full-stack com experiência em arquitetura de sistemas, l
 > _Mai 2026 – Atual_
 > _Remoto_
 
-Constrói e opera quatro produtos do grupo de ponta a ponta — arquitetura, desenvolvimento, infraestrutura e operação em produção:
-
-- AIME — SaaS clínico para clínicas brasileiras, em produção: transcrição de consultas e copiloto com IA, faturamento TISS/ANS, CRM via WhatsApp, portal do paciente. NestJS, Next.js, Prisma/PostgreSQL, Redis.
-- Rivus — plataforma de eventos esportivos, em produção: inscrições e equipes, pagamentos Asaas com fluxos de taxa e estorno, trava de duplicidade por CPF. Flutter, NestJS, Next.js.
-- Quem Contrato — marketplace de serviços via WhatsApp: canal de bot Meta WABA, matching cliente-profissional, apps Android nativos. Next.js, Drizzle/PostgreSQL.
-- Ervanza — plataforma de vendas diretas (MVP pré-lançamento): ledger de comissões em cinco níveis com trilha de auditoria imutável. NestJS/Fastify, Next.js.
+- Constrói e opera quatro produtos do grupo de ponta a ponta — arquitetura, desenvolvimento, infraestrutura e operação em produção.
+- Construiu o AIME, SaaS clínico em produção: transcrição de consultas e copiloto com IA, faturamento TISS/ANS, CRM via WhatsApp e portal do paciente — NestJS, Next.js, Prisma/PostgreSQL, Redis.
+- Entregou os fluxos de pagamento e inscrição do Rivus, plataforma de eventos esportivos em produção: pagamentos Asaas com taxa e estorno e trava de duplicidade por CPF — Flutter, NestJS, Next.js.
+- Desenvolveu o Quem Contrato, marketplace de serviços via WhatsApp: canal de bot Meta WABA, matching cliente-profissional e apps Android nativos — Next.js, Drizzle/PostgreSQL.
+- Projetou o motor de comissões da Ervanza, plataforma de vendas diretas (pré-lançamento): ledger em cinco níveis com trilha de auditoria imutável — NestJS/Fastify, Next.js.
 
 ---
 
@@ -38,10 +41,9 @@ Constrói e opera quatro produtos do grupo de ponta a ponta — arquitetura, des
 > _Set 2025 – Abr 2026_
 > _Maringá, PR · Remoto_
 
-Liderou a arquitetura, a escalabilidade e a entrega de dois produtos da empresa:
-
-- Plataforma White-Label de Apps para Provedores — sistema em microserviços que gera apps de marca própria para provedores de internet com isolamento de dados. NestJS, Angular, Flutter.
-- Marketplace de Técnicos de Campo — plataforma estilo Uber conectando provedores a técnicos, com geolocalização e gestão de ordens de serviço. React Native, NestJS.
+- Liderou a arquitetura, a escalabilidade e a entrega de dois produtos como engenheiro sênior responsável por todas as decisões técnicas.
+- Arquitetou uma plataforma white-label que gera apps de marca própria para provedores de internet, com microserviços e isolamento de dados por provedor — NestJS, Angular, Flutter.
+- Construiu um marketplace de técnicos de campo estilo Uber, com geolocalização e gestão de ordens de serviço — React Native, NestJS.
 
 ---
 
@@ -51,9 +53,7 @@ Liderou a arquitetura, a escalabilidade e a entrega de dois produtos da empresa:
 > _Jul 2025 – Set 2025_
 > _Maringá, PR_
 
-Desenvolvimento full-stack com Laravel (back-end) e Vue.js (front-end), com autonomia na entrega de funcionalidades de ponta a ponta. Integração de APIs internas e de terceiros, modelagem de bancos de dados relacionais e colaboração próxima com os times de produto, design e QA.
-
-**Stack**: Laravel · Vue.js · PHP · MySQL · Git
+- Entregou funcionalidades de ponta a ponta com autonomia total — back-end Laravel, front-end Vue.js, modelagem de bancos relacionais e integrações de APIs internas e de terceiros.
 
 ---
 
@@ -63,9 +63,8 @@ Desenvolvimento full-stack com Laravel (back-end) e Vue.js (front-end), com auto
 > _Fev 2025 – Jul 2025_
 > _Maringá, PR_
 
-Desenvolvimento full-stack de plataforma de telemedicina cobrindo todo o ecossistema de atendimento — da clínica ao paciente — processando mais de 1.000 consultas por mês. Promovido a pleno, passou a tomar decisões de arquitetura com impacto direto na escalabilidade do sistema. Reestruturou módulos críticos para suportar o crescimento da base de usuários e integrou serviços de videoconferência e prontuário eletrônico.
-
-**Stack**: Laravel · Angular · PHP · TypeScript · MySQL
+- Reestruturou módulos críticos de uma plataforma de telemedicina que processa 1.000+ consultas por mês, viabilizando o crescimento da base de usuários.
+- Integrou serviços de videoconferência e prontuário eletrônico; promovido a pleno com influência direta nas decisões de escalabilidade.
 
 ---
 
@@ -75,7 +74,7 @@ Desenvolvimento full-stack de plataforma de telemedicina cobrindo todo o ecossis
 > _Out 2024 – Fev 2025_
 > _Maringá, PR_
 
-Início na plataforma de telemedicina sob supervisão de desenvolvedores sêniores. Construiu funcionalidades de front-end e back-end com Laravel e Angular, corrigiu bugs, integrou APIs e participou de cerimônias ágeis e code reviews.
+- Construiu funcionalidades de front-end e back-end com Laravel e Angular, corrigiu bugs, integrou APIs e participou de cerimônias ágeis e code reviews.
 
 ---
 
@@ -85,9 +84,7 @@ Início na plataforma de telemedicina sob supervisão de desenvolvedores sênior
 > _Set 2024 – Out 2024_
 > _Maringá, PR · Remoto_
 
-Desenvolveu um sistema de controle de acesso físico integrando hardware (Arduino + eletroímãs) com aplicações mobile e web. Construiu um app Android nativo em Java para controle remoto de fechaduras e interfaces web com Angular para a gestão do sistema.
-
-**Stack**: Java · Angular · Arduino · TypeScript
+- Construiu um sistema de controle de acesso físico — app Android nativo em Java, interfaces web em Angular e integração de hardware com Arduino + eletroímãs.
 
 ---
 
@@ -97,12 +94,15 @@ Desenvolveu um sistema de controle de acesso físico integrando hardware (Arduin
 > _Mai 2023 – Abr 2024_
 > _Maringá, PR_
 
-Suporte técnico a sistemas de gestão de saúde pública, atendendo UPAs, UBSs e unidades municipais de saúde. Implantou e treinou equipes em novas instalações, construiu relatórios gerenciais customizados com JasperReports e levantou requisitos com usuários finais — atuando como ponte entre as unidades de saúde e o time de desenvolvimento.
+- Sustentou sistemas de gestão de saúde pública em UPAs, UBSs e unidades municipais — implantações, treinamento de equipes, relatórios em JasperReports e levantamento de requisitos como ponte com o desenvolvimento.
 
-## Projetos Pessoais
+## Projetos
 
-- **Bots Hermes (privado)** — Plataforma pessoal de agentes de IA em Python: assistente financeiro autônomo que espelha dados de Open Finance em SQLite e expõe 24+ ferramentas a um agente LLM via MCP, com entrega por Telegram, agendamento via systemd, backups criptografados em nuvem e CI. Roda sem supervisão em VPS hardened, com 500+ testes automatizados.
-- **[brazil-visible](https://github.com/nferdica/brazil-visible) / [brazil-visible-sdk](https://github.com/nferdica/brazil-visible-sdk)** — Toolkit de dados abertos do governo brasileiro: 93+ APIs públicas catalogadas e SDK TypeScript com 22 módulos e 97 métodos tipados (IBGE, BCB, CGU, TSE, Receita Federal), zero configuração.
+- **swandock** — Projetou e construiu uma plataforma de finanças, agenda e treinos operada por WhatsApp, em produção: LLM restrito a traduzir linguagem natural em comandos estruturados, multi-tenancy com row-level security, cobrança Stripe/ASAAS, 237 testes end-to-end — NestJS, Prisma/PostgreSQL, Next.js, Groq.
+- **Agentes autônomos de IA (Hermes)** — Construiu uma plataforma pessoal de agentes autônomos em Python: um agente que espelha dados de Open Finance em SQLite e expõe 24+ ferramentas a um LLM via MCP, e um agente caçador de vagas com verificador mecânico de honestidade — entrega por Telegram, 600+ testes, sem supervisão em VPS hardened.
+- **unimbox** — Construiu uma API provedora que unifica mensagens de Telegram, Instagram e Facebook: OAuth hospedado, webhooks assinados, ingestão normalizada de DMs e comentários, CI rodando contra PostgreSQL/Redis reais — NestJS, Fastify, Prisma, BullMQ.
+- **Veluaity (OrbitSender)** — Liderou o hardening de segurança e confiabilidade de um SaaS multi-tenant de campanhas via WhatsApp: montou CI com 20+ gates automatizados e corrigiu vulnerabilidades de isolamento de tenant, autenticação e webhook de pagamento em 28+ specs rastreadas — Express, Vue.js, PostgreSQL, Redis.
+- **[brazil-visible](https://github.com/nferdica/brazil-visible)** — Publicou um toolkit de dados abertos: 93+ APIs públicas brasileiras catalogadas e SDK TypeScript com 22 módulos e 97 métodos tipados.
 
 ## Formação
 
