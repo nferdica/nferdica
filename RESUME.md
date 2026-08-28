@@ -8,7 +8,7 @@ Maringá, Brazil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](https
 
 ## About
 
-Full-stack software engineer with experience in systems architecture, technical leadership, and building products from the ground up. Currently leads architecture and scalability for two client products while single-handedly rewriting an e-sports platform backed by R$ 250K in angel investment — all delivered through his own software company, UAITY. Focused on microservices, cross-platform mobile applications, and high-impact deliveries.
+Full-stack software engineer with experience in systems architecture, technical leadership, and building products from the ground up. Founder of UAITY, a software company through which he currently builds and operates four products for Grupo 44 — including a clinical SaaS with AI-assisted care running in production — after leading product architecture for Fibercom and rewriting an angel-backed e-sports platform for GameSe. Focused on microservices, cross-platform mobile applications, and high-impact deliveries.
 
 **Frontend**: TypeScript · JavaScript · React · Next.js · Angular · Vue.js · React Native · Flutter · HTML/CSS · Tailwind CSS
 **Backend**: NestJS · Node.js · Laravel · PHP · Python · REST APIs · MySQL · PostgreSQL · MongoDB
@@ -19,24 +19,26 @@ Full-stack software engineer with experience in systems architecture, technical 
 
 ### Senior Software Engineer
 
-> ##### UAITY — own software company · Founder / contractor (PJ)
+> ##### UAITY — own software company
 > _Sep 2025 – Present_
-> _Remote · Clients: Fibercom Telecomunicações, GameSe_
+> _Remote_
 
-**Fibercom Telecomunicações** — senior engineer responsible for two company products, leading all architecture, scalability, and technical implementation decisions:
+Founder. Delivers products end to end for clients — architecture, development, infrastructure, and production operations.
 
-- White-Label Mobile App Platform for ISPs — architected a microservices system generating personalized mobile apps for internet providers with data isolation. Full-stack: NestJS (back-end), Angular (admin panel), Flutter (mobile).
-- Field Technician Marketplace — Uber-style platform connecting ISPs with network installation and maintenance technicians. Built with React Native (mobile) and NestJS (API), including geolocation and work order management.
+**Grupo 44** (May 2026 – Present) — builds and operates four products for the group:
 
-**GameSe** — sole engineer responsible for the complete rewrite of an e-sports tournament management platform backed by R$ 250K in angel investment:
+- AIME — clinical SaaS for Brazilian clinics, in production: AI-assisted consultation transcription and copilot, TISS/ANS insurance billing, WhatsApp CRM, patient portal. NestJS, Next.js, Prisma/PostgreSQL, Redis.
+- Rivus — sports-event platform, in production: registrations and teams, Asaas payments with fee and refund flows, CPF-based duplicate guards. Flutter, NestJS, Next.js.
+- Quem Contrato — WhatsApp-driven services marketplace: Meta WABA bot channel, client-professional matching, native Android apps. Next.js, Drizzle/PostgreSQL.
+- Ervanza — direct-sales platform (pre-launch MVP): five-level commission ledger with an immutable audit trail. NestJS/Fastify, Next.js.
 
-- Migrated the application from monolithic Laravel to NestJS + Angular with a hybrid monolithic + microservices architecture.
-- Defined and implemented the entire architecture from scratch — data modeling, API structure, deployment strategy, code standards, and CI/CD pipelines.
-- Managing the full development lifecycle as the only engineer, from requirements gathering to production deployment.
+**Fibercom Telecomunicações** (Sep 2025 – Apr 2026) — led architecture and delivery of two products:
 
-**Own products** — designed and delivered AIME, a vertical SaaS platform for clinics and medical practices (scheduling, electronic health records, AI-assisted care, CRM, billing), plus Quem Contrato, Rivus, and Ervanza.
+- White-Label App Platform for ISPs — microservices system generating branded mobile apps with data isolation (NestJS, Angular, Flutter) — and an Uber-style field-technician marketplace (React Native, NestJS).
 
-**Stack**: NestJS · Angular · Flutter · React Native · TypeScript · PostgreSQL · Microservices
+**GameSe** (Sep 2025 – Apr 2026) — sole engineer on the rewrite of an e-sports tournament platform backed by R$ 250K in angel investment:
+
+- Migrated a monolithic Laravel application to NestJS + Angular and owned the entire lifecycle — data modeling, API design, deployment, code standards, CI/CD.
 
 ---
 

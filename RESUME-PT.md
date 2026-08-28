@@ -8,7 +8,7 @@ Maringá, PR, Brasil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](h
 
 ## Sobre
 
-Engenheiro de software full-stack com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Atualmente lidera a arquitetura e a escalabilidade de dois produtos de cliente enquanto reescreve sozinho uma plataforma de e-sports com R$ 250 mil de investimento-anjo — tudo entregue através da sua própria empresa de software, a UAITY. Foco em microserviços, aplicações mobile multiplataforma e entregas de alto impacto.
+Engenheiro de software full-stack com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Fundador da UAITY, empresa de software pela qual atualmente constrói e opera quatro produtos para o Grupo 44 — incluindo um SaaS clínico com atendimento assistido por IA rodando em produção — depois de liderar a arquitetura de produtos da Fibercom e reescrever uma plataforma de e-sports com investimento-anjo para a GameSe. Foco em microserviços, aplicações mobile multiplataforma e entregas de alto impacto.
 
 **Frontend**: TypeScript · JavaScript · React · Next.js · Angular · Vue.js · React Native · Flutter · HTML/CSS · Tailwind CSS
 **Backend**: NestJS · Node.js · Laravel · PHP · Python · REST APIs · MySQL · PostgreSQL · MongoDB
@@ -19,24 +19,26 @@ Engenheiro de software full-stack com experiência em arquitetura de sistemas, l
 
 ### Engenheiro de Software Sênior
 
-> ##### UAITY — empresa própria de software · Fundador / contratado (PJ)
+> ##### UAITY — empresa própria de software
 > _Set 2025 – Atual_
-> _Remoto · Clientes: Fibercom Telecomunicações, GameSe_
+> _Remoto_
 
-**Fibercom Telecomunicações** — engenheiro sênior responsável por dois produtos da empresa, liderando todas as decisões de arquitetura, escalabilidade e implementação técnica:
+Fundador. Entrega produtos de ponta a ponta para clientes — arquitetura, desenvolvimento, infraestrutura e operação em produção.
 
-- Plataforma White-Label de Apps para Provedores — arquitetou um sistema em microserviços que gera aplicativos móveis personalizados para provedores de internet com isolamento de dados. Full-stack: NestJS (back-end), Angular (painel administrativo), Flutter (mobile).
-- Marketplace de Técnicos de Campo — plataforma estilo Uber conectando provedores a técnicos de instalação e manutenção de rede. Construída com React Native (mobile) e NestJS (API), com geolocalização e gestão de ordens de serviço.
+**Grupo 44** (Mai 2026 – Atual) — constrói e opera quatro produtos para o grupo:
 
-**GameSe** — único engenheiro responsável pela reescrita completa de uma plataforma de gestão de torneios de e-sports com R$ 250 mil de investimento-anjo:
+- AIME — SaaS clínico para clínicas brasileiras, em produção: transcrição de consultas e copiloto com IA, faturamento TISS/ANS, CRM via WhatsApp, portal do paciente. NestJS, Next.js, Prisma/PostgreSQL, Redis.
+- Rivus — plataforma de eventos esportivos, em produção: inscrições e equipes, pagamentos Asaas com fluxos de taxa e estorno, trava de duplicidade por CPF. Flutter, NestJS, Next.js.
+- Quem Contrato — marketplace de serviços via WhatsApp: canal de bot Meta WABA, matching cliente-profissional, apps Android nativos. Next.js, Drizzle/PostgreSQL.
+- Ervanza — plataforma de vendas diretas (MVP pré-lançamento): ledger de comissões em cinco níveis com trilha de auditoria imutável. NestJS/Fastify, Next.js.
 
-- Migrou a aplicação de Laravel monolítico para NestJS + Angular com arquitetura híbrida monólito + microserviços.
-- Definiu e implementou toda a arquitetura do zero — modelagem de dados, estrutura de API, estratégia de deploy, padrões de código e pipelines de CI/CD.
-- Gerencia o ciclo completo de desenvolvimento como único engenheiro, do levantamento de requisitos ao deploy em produção.
+**Fibercom Telecomunicações** (Set 2025 – Abr 2026) — liderou a arquitetura e a entrega de dois produtos:
 
-**Produtos próprios** — projetou e entregou o AIME, plataforma SaaS vertical para clínicas e consultórios (agenda, prontuário eletrônico, atendimento assistido por IA, CRM, financeiro), além de Quem Contrato, Rivus e Ervanza.
+- Plataforma White-Label de Apps para Provedores — sistema em microserviços que gera apps de marca própria com isolamento de dados (NestJS, Angular, Flutter) — e um marketplace de técnicos de campo estilo Uber (React Native, NestJS).
 
-**Stack**: NestJS · Angular · Flutter · React Native · TypeScript · PostgreSQL · Microserviços
+**GameSe** (Set 2025 – Abr 2026) — único engenheiro na reescrita de uma plataforma de torneios de e-sports com R$ 250 mil de investimento-anjo:
+
+- Migrou uma aplicação Laravel monolítica para NestJS + Angular e foi dono de todo o ciclo — modelagem de dados, design de API, deploy, padrões de código, CI/CD.
 
 ---
 
