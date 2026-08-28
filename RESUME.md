@@ -8,7 +8,7 @@ Maringá, Brazil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](https
 
 ## About
 
-Full-stack software engineer with experience in systems architecture, technical leadership, and building products from the ground up. Founder of UAITY, a software company through which he currently builds and operates four products for Grupo 44 — including a clinical SaaS with AI-assisted care running in production — after leading product architecture for Fibercom and rewriting an angel-backed e-sports platform for GameSe. Focused on microservices, cross-platform mobile applications, and high-impact deliveries.
+Full-stack software engineer with experience in systems architecture, technical leadership, and building products from the ground up. Currently builds and operates four products at Grupo 44 — including a clinical SaaS with AI-assisted care running in production — after leading the architecture and delivery of two products at Fibercom. Focused on microservices, cross-platform mobile applications, and high-impact deliveries.
 
 **Frontend**: TypeScript · JavaScript · React · Next.js · Angular · Vue.js · React Native · Flutter · HTML/CSS · Tailwind CSS
 **Backend**: NestJS · Node.js · Laravel · PHP · Python · REST APIs · MySQL · PostgreSQL · MongoDB
@@ -19,26 +19,29 @@ Full-stack software engineer with experience in systems architecture, technical 
 
 ### Senior Software Engineer
 
-> ##### UAITY — own software company
-> _Sep 2025 – Present_
+> ##### Grupo 44 · Full-time
+> _May 2026 – Present_
 > _Remote_
 
-Founder. Delivers products end to end for clients — architecture, development, infrastructure, and production operations.
-
-**Grupo 44** (May 2026 – Present) — builds and operates four products for the group:
+Builds and operates four of the group's products end to end — architecture, development, infrastructure, and production operations:
 
 - AIME — clinical SaaS for Brazilian clinics, in production: AI-assisted consultation transcription and copilot, TISS/ANS insurance billing, WhatsApp CRM, patient portal. NestJS, Next.js, Prisma/PostgreSQL, Redis.
 - Rivus — sports-event platform, in production: registrations and teams, Asaas payments with fee and refund flows, CPF-based duplicate guards. Flutter, NestJS, Next.js.
 - Quem Contrato — WhatsApp-driven services marketplace: Meta WABA bot channel, client-professional matching, native Android apps. Next.js, Drizzle/PostgreSQL.
 - Ervanza — direct-sales platform (pre-launch MVP): five-level commission ledger with an immutable audit trail. NestJS/Fastify, Next.js.
 
-**Fibercom Telecomunicações** (Sep 2025 – Apr 2026) — led architecture and delivery of two products:
+---
 
-- White-Label App Platform for ISPs — microservices system generating branded mobile apps with data isolation (NestJS, Angular, Flutter) — and an Uber-style field-technician marketplace (React Native, NestJS).
+### Senior Software Engineer
 
-**GameSe** (Sep 2025 – Apr 2026) — sole engineer on the rewrite of an e-sports tournament platform backed by R$ 250K in angel investment:
+> ##### Fibercom Telecomunicações · Full-time
+> _Sep 2025 – Apr 2026_
+> _Maringá, PR · Remote_
 
-- Migrated a monolithic Laravel application to NestJS + Angular and owned the entire lifecycle — data modeling, API design, deployment, code standards, CI/CD.
+Led architecture, scalability, and delivery of two company products:
+
+- White-Label App Platform for ISPs — microservices system generating branded mobile apps for internet providers with data isolation. NestJS, Angular, Flutter.
+- Field Technician Marketplace — Uber-style platform connecting ISPs to field technicians, with geolocation and work order management. React Native, NestJS.
 
 ---
 

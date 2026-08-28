@@ -8,7 +8,7 @@ Maringá, PR, Brasil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](h
 
 ## Sobre
 
-Engenheiro de software full-stack com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Fundador da UAITY, empresa de software pela qual atualmente constrói e opera quatro produtos para o Grupo 44 — incluindo um SaaS clínico com atendimento assistido por IA rodando em produção — depois de liderar a arquitetura de produtos da Fibercom e reescrever uma plataforma de e-sports com investimento-anjo para a GameSe. Foco em microserviços, aplicações mobile multiplataforma e entregas de alto impacto.
+Engenheiro de software full-stack com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Atualmente constrói e opera quatro produtos no Grupo 44 — incluindo um SaaS clínico com atendimento assistido por IA rodando em produção — depois de liderar a arquitetura e a entrega de dois produtos na Fibercom. Foco em microserviços, aplicações mobile multiplataforma e entregas de alto impacto.
 
 **Frontend**: TypeScript · JavaScript · React · Next.js · Angular · Vue.js · React Native · Flutter · HTML/CSS · Tailwind CSS
 **Backend**: NestJS · Node.js · Laravel · PHP · Python · REST APIs · MySQL · PostgreSQL · MongoDB
@@ -19,26 +19,29 @@ Engenheiro de software full-stack com experiência em arquitetura de sistemas, l
 
 ### Engenheiro de Software Sênior
 
-> ##### UAITY — empresa própria de software
-> _Set 2025 – Atual_
+> ##### Grupo 44 · Tempo integral
+> _Mai 2026 – Atual_
 > _Remoto_
 
-Fundador. Entrega produtos de ponta a ponta para clientes — arquitetura, desenvolvimento, infraestrutura e operação em produção.
-
-**Grupo 44** (Mai 2026 – Atual) — constrói e opera quatro produtos para o grupo:
+Constrói e opera quatro produtos do grupo de ponta a ponta — arquitetura, desenvolvimento, infraestrutura e operação em produção:
 
 - AIME — SaaS clínico para clínicas brasileiras, em produção: transcrição de consultas e copiloto com IA, faturamento TISS/ANS, CRM via WhatsApp, portal do paciente. NestJS, Next.js, Prisma/PostgreSQL, Redis.
 - Rivus — plataforma de eventos esportivos, em produção: inscrições e equipes, pagamentos Asaas com fluxos de taxa e estorno, trava de duplicidade por CPF. Flutter, NestJS, Next.js.
 - Quem Contrato — marketplace de serviços via WhatsApp: canal de bot Meta WABA, matching cliente-profissional, apps Android nativos. Next.js, Drizzle/PostgreSQL.
 - Ervanza — plataforma de vendas diretas (MVP pré-lançamento): ledger de comissões em cinco níveis com trilha de auditoria imutável. NestJS/Fastify, Next.js.
 
-**Fibercom Telecomunicações** (Set 2025 – Abr 2026) — liderou a arquitetura e a entrega de dois produtos:
+---
 
-- Plataforma White-Label de Apps para Provedores — sistema em microserviços que gera apps de marca própria com isolamento de dados (NestJS, Angular, Flutter) — e um marketplace de técnicos de campo estilo Uber (React Native, NestJS).
+### Engenheiro de Software Sênior
 
-**GameSe** (Set 2025 – Abr 2026) — único engenheiro na reescrita de uma plataforma de torneios de e-sports com R$ 250 mil de investimento-anjo:
+> ##### Fibercom Telecomunicações · Tempo integral
+> _Set 2025 – Abr 2026_
+> _Maringá, PR · Remoto_
 
-- Migrou uma aplicação Laravel monolítica para NestJS + Angular e foi dono de todo o ciclo — modelagem de dados, design de API, deploy, padrões de código, CI/CD.
+Liderou a arquitetura, a escalabilidade e a entrega de dois produtos da empresa:
+
+- Plataforma White-Label de Apps para Provedores — sistema em microserviços que gera apps de marca própria para provedores de internet com isolamento de dados. NestJS, Angular, Flutter.
+- Marketplace de Técnicos de Campo — plataforma estilo Uber conectando provedores a técnicos, com geolocalização e gestão de ordens de serviço. React Native, NestJS.
 
 ---
 
