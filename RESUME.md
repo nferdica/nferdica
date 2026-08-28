@@ -4,13 +4,13 @@
 
 #### Software Engineer
 
-Maringá, Brazil · nferdica@outlook.com · +55 (44) 98441-7008
+Maringá, Brazil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](https://github.com/nferdica) · [Portfolio](https://nferdica.me)
 
 ## About
 
 Full-stack software engineer with experience in systems architecture, technical leadership, and building products from the ground up. Currently leading all architecture and scalability decisions for two products at Fibercom, while also single-handedly rewriting an e-sports platform backed by R$ 250K in angel investment. Rapidly progressed from trainee to senior/lead engineer in under a year, with a focus on microservices, cross-platform mobile applications, and high-impact deliveries.
 
-**Core Stack**: NestJS · Angular · Laravel · React Native · Flutter · TypeScript · PostgreSQL · MySQL · Docker · Git · CI/CD · Microservices
+**Core Stack**: TypeScript · Node.js · NestJS · Angular · Laravel · PHP · React Native · Flutter · Python · PostgreSQL · MySQL · Docker · Git · CI/CD · Microservices
 
 ## Professional Experience
 
@@ -118,30 +118,29 @@ Vehicle invoicing management, development of interactive dashboards with Power B
 
 Worked in logistics and finance at a leading dental implant company. Handled inventory control, order fulfillment, invoice processing, and financial department administrative routines.
 
+## Personal Projects
+
+- **Hermes bots (private)** — Personal AI-agent platform in Python: an autonomous finance assistant that mirrors Open Finance data into SQLite and exposes 24+ tools to an LLM agent over MCP, with Telegram delivery, systemd scheduling, encrypted cloud backups, and CI. Runs unattended on a hardened VPS, backed by 500+ automated tests.
+- **[brazil-visible](https://github.com/nferdica/brazil-visible) / [brazil-visible-sdk](https://github.com/nferdica/brazil-visible-sdk)** — Brazilian government open data toolkit: 93+ public APIs cataloged and a TypeScript SDK with 22 modules and 97 typed methods (IBGE, BCB, CGU, TSE, Receita Federal), zero config.
+- **[nferdica.me](https://nferdica.me)** — Personal site and portfolio.
+
 ## Education
-
-### Bachelor's in Software Engineering
-
-> ##### UNICV – Centro Universitário Cidade Verde
-> _2026 – 2027 (in progress)_
-
----
-
-### Postgraduate (MBA) in Information Technology Management
-
-> ##### UNICV – Centro Universitário Cidade Verde
-> _2025 – 2026 (in progress)_
-
----
 
 ### Associate Degree in Systems Analysis and Development
 
 > ##### UNICV – Centro Universitário Cidade Verde
 > _2022 – 2025 (completed)_
 
-## Certifications
+## Training & Certifications
 
-- Introduction to Linux (LFS101)
+Over 1,000 hours of technical training, including:
+
+- Full-Stack Development with JavaScript & TypeScript (200 h + 90 h)
+- JavaScript & TypeScript from Basic to Advanced (146 h)
+- Web Development (120 h) · JavaScript Development (95 h)
+- Laravel (71 h) · PHP & Laravel (57 h) · Angular (45 h)
+- Linux (40 h) · Git & GitHub (40 h) · Introduction to Linux (LFS101)
+- Docker, Bootstrap, Tailwind, Figma, HTML5, WordPress, algorithms and programming logic
 
 ## Languages
 

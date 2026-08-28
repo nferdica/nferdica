@@ -1,90 +1,90 @@
-[EN](RESUME.md) | PT-Br
+PT | [EN](RESUME.md)
 
 # Nathan Ferdinando ([LinkedIn](https://www.linkedin.com/in/nferdica))
 
-#### Software Engineer
+#### Engenheiro de Software
 
-Maringá, Brasil · nferdica@outlook.com · (44) 98441-7008
+Maringá, PR, Brasil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](https://github.com/nferdica) · [Portfólio](https://nferdica.me)
 
 ## Sobre
 
-Engenheiro de software full-stack com experiência em arquitetura de sistemas, liderança técnica e desenvolvimento de produtos do zero ao deploy. Atualmente responsável por decisões de arquitetura e escalabilidade em dois produtos simultâneos na Fibercom e pela reescrita completa de uma plataforma de e-sports que recebeu investimento anjo de R$ 250 mil. Trajetória marcada por rápida evolução — de trainee a senior/lead engineer em menos de dois anos — com foco em microsserviços, aplicações mobile multiplataforma e entregas de alto impacto.
+Engenheiro de software full-stack com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Atualmente lidera todas as decisões de arquitetura e escalabilidade de dois produtos na Fibercom, enquanto reescreve sozinho uma plataforma de e-sports com R$ 250 mil de investimento-anjo. Progrediu de trainee a engenheiro sênior/líder em menos de um ano, com foco em microserviços, aplicações mobile multiplataforma e entregas de alto impacto.
 
-**Stack principal**: NestJS · Angular · Laravel · React · React Native · Flutter · TypeScript · PostgreSQL · MySQL · Docker · Git · CI/CD · Microsserviços
+**Stack Principal**: TypeScript · Node.js · NestJS · Angular · Laravel · PHP · React Native · Flutter · Python · PostgreSQL · MySQL · Docker · Git · CI/CD · Microserviços
 
 ## Experiência Profissional
 
-### Senior Software Engineer
+### Engenheiro de Software Sênior
 
 > ##### Fibercom Telecomunicações · Tempo integral
-> _set de 2025 – o momento_
+> _Set 2025 – Atual_
 > _Maringá, PR · Remoto_
 
-Engenheiro sênior responsável por dois produtos, liderando todas as decisões de arquitetura, escalabilidade e implementação técnica.
+Engenheiro sênior responsável por dois produtos da empresa, liderando todas as decisões de arquitetura, escalabilidade e implementação técnica.
 
-**Plataforma de Aplicativos para Provedores de Internet** — Produto que gera apps mobile personalizados para provedores de internet, permitindo que cada provedor tenha seu próprio app com marca customizada. Arquitetei o sistema com microsserviços para suportar múltiplos provedores com isolamento de dados. Desenvolvimento full-stack: NestJS (back-end), Angular (painel admin) e Flutter (mobile).
+**Plataforma White-Label de Apps para Provedores** — Produto que gera aplicativos móveis personalizados para provedores de internet, permitindo que cada provedor tenha seu app de marca própria. Arquitetura do sistema em microserviços para atender múltiplos provedores simultaneamente com isolamento de dados. Desenvolvimento full-stack: NestJS (back-end), Angular (painel administrativo) e Flutter (mobile).
 
-**Aplicativo para Técnicos de Instalação** — Marketplace (modelo Uber) que conecta provedores a técnicos de instalação de rede. Desenvolvi o app mobile em React Native e a API em NestJS, incluindo geolocalização e gerenciamento de ordens de serviço.
+**Marketplace de Técnicos de Campo** — Plataforma estilo Uber conectando provedores a técnicos de instalação e manutenção de rede. App mobile em React Native e API em NestJS, com geolocalização e gestão de ordens de serviço.
 
-**Stack**: NestJS · Angular · Flutter · React Native · TypeScript · Microsserviços
+**Stack**: NestJS · Angular · Flutter · React Native · TypeScript · Microserviços
 
 ---
 
-### Senior Software Engineer
+### Engenheiro de Software Sênior
 
-> ##### GameSe.gg · Temporário
-> _set de 2025 – o momento_
+> ##### GameSe.gg · Contrato
+> _Set 2025 – Atual_
 > _Remoto_
 
-Único engenheiro responsável pela reescrita completa da plataforma de organização de campeonatos de e-sports, que recebeu investimento anjo de R$ 250 mil. Migrei a aplicação de Laravel monolítico para NestJS + Angular com arquitetura monolítica + microsserviços.
+Único engenheiro responsável pela reescrita completa de uma plataforma de gestão de torneios de e-sports com R$ 250 mil de investimento-anjo. Migração da aplicação de Laravel monolítico para NestJS + Angular com arquitetura híbrida monólito + microserviços.
 
-Defini e implementei toda a arquitetura do zero — modelagem de dados, estrutura de APIs, estratégia de deploy, padrões de código e pipelines de CI/CD. Gerencio o ciclo completo de desenvolvimento como único engenheiro, do levantamento de requisitos ao deploy em produção.
+Definiu e implementou toda a arquitetura do zero — modelagem de dados, estrutura de API, estratégia de deploy, padrões de código e pipelines de CI/CD. Gerencia o ciclo completo de desenvolvimento como único engenheiro, do levantamento de requisitos ao deploy em produção.
 
-**Stack**: NestJS · Angular · TypeScript · PostgreSQL · Microsserviços
+**Stack**: NestJS · Angular · TypeScript · PostgreSQL · Microserviços
 
 ---
 
-### Pleno Software Engineer
+### Engenheiro de Software Pleno
 
 > ##### Ingá Digital · Tempo integral
-> _jul de 2025 – set de 2025_
+> _Jul 2025 – Set 2025_
 > _Maringá, PR_
 
-Desenvolvimento de aplicações full-stack com Laravel (back-end) e Vue.js (front-end), atuando com autonomia na entrega de funcionalidades completas. Integração de APIs internas e de terceiros, modelagem de bancos de dados relacionais e colaboração direta com times de produto, design e QA.
+Desenvolvimento full-stack com Laravel (back-end) e Vue.js (front-end), com autonomia na entrega de funcionalidades de ponta a ponta. Integração de APIs internas e de terceiros, modelagem de bancos de dados relacionais e colaboração próxima com os times de produto, design e QA.
 
 **Stack**: Laravel · Vue.js · PHP · MySQL · Git
 
 ---
 
-### Pleno Software Engineer
+### Engenheiro de Software Pleno
 
 > ##### ClubMed Saúde e Telemedicina · Tempo integral
-> _fev de 2025 – jul de 2025_
+> _Fev 2025 – Jul 2025_
 > _Maringá, PR_
 
-Desenvolvimento full-stack da plataforma de telemedicina que cobre todo o ecossistema de atendimento — da clínica ao paciente — processando mais de 1.000 consultas/mês. Promovido a Pleno, passei a tomar decisões de arquitetura que impactaram diretamente na escalabilidade do sistema. Reestruturei módulos críticos para suportar o crescimento da base de usuários e integrei serviços de videoconferência e prontuário eletrônico.
+Desenvolvimento full-stack de plataforma de telemedicina cobrindo todo o ecossistema de atendimento — da clínica ao paciente — processando mais de 1.000 consultas por mês. Promovido a pleno, passou a tomar decisões de arquitetura com impacto direto na escalabilidade do sistema. Reestruturou módulos críticos para suportar o crescimento da base de usuários e integrou serviços de videoconferência e prontuário eletrônico.
 
 **Stack**: Laravel · Angular · PHP · TypeScript · MySQL
 
 ---
 
-### Junior Software Engineer
+### Engenheiro de Software Júnior
 
 > ##### ClubMed Saúde e Telemedicina · Tempo integral
-> _out de 2024 – fev de 2025_
+> _Out 2024 – Fev 2025_
 > _Maringá, PR_
 
-Início da atuação na plataforma de telemedicina sob supervisão de desenvolvedores seniores. Desenvolvimento de funcionalidades front-end e back-end com Laravel e Angular, correções de bugs, integração com APIs e participação em cerimônias ágeis.
+Início na plataforma de telemedicina sob supervisão de desenvolvedores sêniores. Construiu funcionalidades de front-end e back-end com Laravel e Angular, corrigiu bugs, integrou APIs e participou de cerimônias ágeis e code reviews.
 
 ---
 
-### Trainee Software Engineer
+### Estagiário de Engenharia de Software
 
 > ##### IgoPass · Estágio
-> _set de 2024 – out de 2024_
+> _Set 2024 – Out 2024_
 > _Maringá, PR · Remoto_
 
-Desenvolvimento de sistema de controle de acesso físico integrando hardware (Arduino + eletroímãs) com aplicações mobile e web. Criação de app Android nativo em Java para controle remoto das travas e interfaces web com Angular para gerenciamento do sistema.
+Desenvolveu um sistema de controle de acesso físico integrando hardware (Arduino + eletroímãs) com aplicações mobile e web. Construiu um app Android nativo em Java para controle remoto de fechaduras e interfaces web com Angular para a gestão do sistema.
 
 **Stack**: Java · Angular · Arduino · TypeScript
 
@@ -93,60 +93,59 @@ Desenvolvimento de sistema de controle de acesso físico integrando hardware (Ar
 ### Analista de Suporte
 
 > ##### SISAMHIL E S.O.S · Tempo integral
-> _mai de 2023 – abr de 2024_
+> _Mai 2023 – Abr 2024_
 > _Maringá, PR_
 
-Suporte técnico em sistemas de gestão pública em saúde, atendendo UPAs, UBSs e unidades municipais. Implantação e treinamento de sistemas em novas unidades, customização de relatórios gerenciais com JasperReports e coleta de requisitos junto a usuários finais, atuando como ponte entre as unidades de saúde e a equipe de desenvolvimento.
+Suporte técnico a sistemas de gestão de saúde pública, atendendo UPAs, UBSs e unidades municipais de saúde. Implantou e treinou equipes em novas instalações, construiu relatórios gerenciais customizados com JasperReports e levantou requisitos com usuários finais — atuando como ponte entre as unidades de saúde e o time de desenvolvimento.
 
 ---
 
 ### Assistente Administrativo
 
 > ##### Rivesa Volvo · Tempo integral
-> _jan de 2022 – abr de 2023_
+> _Jan 2022 – Abr 2023_
 > _Maringá, PR_
 
-Gestão de faturamento de veículos, desenvolvimento de dashboards com Power BI para apoio à tomada de decisão e criação de planilhas automatizadas com VBA — primeiros passos com programação que despertaram o interesse pela área de tecnologia.
+Gestão de faturamento de veículos, desenvolvimento de dashboards interativos com Power BI para decisão executiva e criação de planilhas automatizadas com VBA — primeiros passos na programação que despertaram a transição para a carreira em tecnologia.
 
 ---
 
-### Auxiliar de Logística / Jovem Aprendiz
+### Assistente de Logística / Jovem Aprendiz
 
 > ##### Neodent · Tempo integral
-> _jan de 2019 – jul de 2021_
+> _Jan 2019 – Jul 2021_
 > _Maringá, PR_
 
-Atuação nos setores de logística e financeiro de empresa referência em implantes odontológicos. Controle de estoque, faturamento de pedidos, lançamento de notas fiscais e rotinas administrativas do setor financeiro.
+Atuou em logística e financeiro em empresa líder de implantes dentários. Cuidou de controle de estoque, expedição de pedidos, processamento de notas fiscais e rotinas administrativas do departamento financeiro.
 
-## Formação Acadêmica
+## Projetos Pessoais
 
-### Bacharelado em Engenharia de Software
+- **Bots Hermes (privado)** — Plataforma pessoal de agentes de IA em Python: assistente financeiro autônomo que espelha dados de Open Finance em SQLite e expõe 24+ ferramentas a um agente LLM via MCP, com entrega por Telegram, agendamento via systemd, backups criptografados em nuvem e CI. Roda sem supervisão em VPS hardened, com 500+ testes automatizados.
+- **[brazil-visible](https://github.com/nferdica/brazil-visible) / [brazil-visible-sdk](https://github.com/nferdica/brazil-visible-sdk)** — Toolkit de dados abertos do governo brasileiro: 93+ APIs públicas catalogadas e SDK TypeScript com 22 módulos e 97 métodos tipados (IBGE, BCB, CGU, TSE, Receita Federal), zero configuração.
+- **[nferdica.me](https://nferdica.me)** — Site pessoal e portfólio.
 
-> ##### UNICV – Centro Universitário Cidade Verde
-> _2026 – 2027 (em andamento)_
-
----
-
-### Pós-graduação (MBA) em Gestão de Tecnologia da Informação
-
-> ##### UNICV – Centro Universitário Cidade Verde
-> _2025 – 2026 (em andamento)_
-
----
+## Formação
 
 ### Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 > ##### UNICV – Centro Universitário Cidade Verde
 > _2022 – 2025 (concluído)_
 
-## Certificações
+## Cursos & Certificações
 
-- Introdução ao Linux (LFS101)
+Mais de 1.000 horas de formação técnica, incluindo:
+
+- Desenvolvimento Full-Stack com JavaScript & TypeScript (200 h + 90 h)
+- JavaScript & TypeScript do Básico ao Avançado (146 h)
+- Desenvolvimento Web (120 h) · Desenvolvimento JavaScript (95 h)
+- Laravel (71 h) · PHP & Laravel (57 h) · Angular (45 h)
+- Linux (40 h) · Git & GitHub (40 h) · Introduction to Linux (LFS101)
+- Docker, Bootstrap, Tailwind, Figma, HTML5, WordPress, algoritmos e lógica de programação
 
 ## Idiomas
 
-| Idioma    | Escrita | Escuta | Fala  |
-|-----------|---------|--------|-------|
-| Português | ★★★★★  | ★★★★★ | ★★★★★ |
-| Inglês    | ★★★★☆  | ★★★★★ | ★★★★☆ |
-| Espanhol  | ★☆☆☆☆  | ★★★☆☆ | ★★☆☆☆ |
+| Idioma     | Escrita | Escuta | Fala |
+|------------|---------|--------|------|
+| Português  | ★★★★★  | ★★★★★ | ★★★★★ |
+| Inglês     | ★★★★☆  | ★★★★★ | ★★★★☆ |
+| Espanhol   | ★☆☆☆☆  | ★★★☆☆ | ★★☆☆☆ |
