@@ -28,6 +28,7 @@ Engenheiro de software sênior full-stack especializado em TypeScript/Node.js, c
 > _Remoto_
 
 - Construo e opero quatro produtos do grupo de ponta a ponta — arquitetura, desenvolvimento, infraestrutura e operação em produção.
+      - Remodelei a arquitetura herdada dos produtos para escalabilidade e acelerei as entregas com desenvolvimento assistido por agentes de IA (Claude).
 - Construí o AIME, SaaS clínico em produção: transcrição de consultas e copiloto com IA, faturamento TISS/ANS, CRM via WhatsApp e portal do paciente — NestJS (Node.js), Next.js, Prisma/PostgreSQL, Redis, Docker.
 - Entreguei os fluxos de pagamento e inscrição do Rivus, plataforma de eventos esportivos em produção: pagamentos Asaas com taxa, estorno e trava de duplicidade por CPF — Flutter, NestJS, Next.js.
 - Desenvolvi o Quem Contrato, marketplace de serviços via WhatsApp: canal de bot Meta WABA, matching entre clientes e profissionais e apps Android nativos — Next.js, Drizzle/PostgreSQL.
@@ -42,8 +43,8 @@ Engenheiro de software sênior full-stack especializado em TypeScript/Node.js, c
 > _Maringá, PR · Remoto_
 
 - Liderei a arquitetura, a escalabilidade e a entrega de dois produtos como engenheiro sênior responsável por todas as decisões técnicas.
-- Arquitetei uma plataforma white-label que gera apps de marca própria para provedores de internet, com microsserviços e isolamento de dados por provedor — NestJS, Angular, Flutter.
-- Construí um marketplace de técnicos de campo estilo Uber, com geolocalização e gestão de ordens de serviço — React Native, NestJS.
+- Arquitetei uma plataforma white-label, em produção, que gera apps de marca própria para provedores de internet com microsserviços e isolamento de dados por provedor — NestJS, Angular, Flutter.
+- Construí um marketplace de técnicos de campo estilo Uber, em produção, com geolocalização e gestão de ordens de serviço — React Native, NestJS.
 
 ---
 
