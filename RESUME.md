@@ -8,7 +8,7 @@ Maringá, PR, Brazil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](h
 
 ## Summary
 
-Senior full-stack software engineer specialized in TypeScript/Node.js, with experience in systems architecture, technical leadership, and building products from the ground up. Currently builds and operates four products at Grupo 44 — including a clinical SaaS with AI-assisted care running in production — after leading the architecture and delivery of two products at Fibercom. Focused on microservices, cross-platform mobile applications, AI-powered systems, and high-impact deliveries.
+Senior full-stack software engineer specialized in TypeScript/Node.js, with experience in systems architecture, technical leadership, and building products from the ground up. Currently building and operating four products at Grupo 44 — including a clinical SaaS with AI-assisted care running in production — after leading the architecture and delivery of two products at Fibercom. Focused on microservices, cross-platform mobile applications, AI-powered systems, and high-impact deliveries.
 
 ## Skills
 
@@ -27,7 +27,7 @@ Senior full-stack software engineer specialized in TypeScript/Node.js, with expe
 > _May 2026 – Present_
 > _Remote_
 
-- Builds and operates four of the group's products end to end — architecture, development, infrastructure, and production operations.
+- Build and operate four of the group's products end to end — architecture, development, infrastructure, and production operations.
 - Built AIME, a clinical SaaS in production: AI-assisted consultation transcription and copilot, TISS/ANS insurance billing, WhatsApp CRM, and patient portal — NestJS, Next.js, Prisma/PostgreSQL, Redis.
 - Delivered payment and registration flows for Rivus, a sports-event platform in production: Asaas payments with fee and refund handling and CPF-based duplicate guards — Flutter, NestJS, Next.js.
 - Engineered Quem Contrato, a WhatsApp-driven services marketplace: Meta WABA bot channel, client-professional matching, and native Android apps — Next.js, Drizzle/PostgreSQL.
