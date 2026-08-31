@@ -98,11 +98,11 @@ Senior full-stack software engineer specialized in TypeScript/Node.js, with expe
 
 ## Projects
 
-- **swandock** — Designed and built a WhatsApp-operated finance, calendar, and workout platform, in production: LLM constrained to translating natural language into structured commands, row-level-security multi-tenancy, Stripe/ASAAS billing, 237 end-to-end tests — NestJS, Prisma/PostgreSQL, Next.js, Groq.
-- **Autonomous AI agents (Hermes)** — Built a personal platform of autonomous AI agents in Python: an agent mirroring Open Finance data into SQLite and exposing 24+ tools to an LLM over MCP, and a job-hunting agent with a mechanical honesty verifier — Telegram delivery, 600+ tests, unattended on a hardened VPS.
-- **unimbox** — Built a provider API unifying Telegram, Instagram, and Facebook messaging: hosted OAuth, signed webhooks, normalized DM and comment ingestion, CI running against real PostgreSQL/Redis — NestJS, Fastify, Prisma, BullMQ.
-- **Veluaity (OrbitSender)** — Led the security and reliability hardening of a multi-tenant WhatsApp-campaign SaaS: stood up CI with 20+ custom automated gates and fixed tenant-isolation, authentication, and payment-webhook vulnerabilities across 28+ tracked specs — Express, Vue.js, PostgreSQL, Redis.
-- **[brazil-visible](https://github.com/nferdica/brazil-visible)** — Published an open data toolkit: 93+ Brazilian public APIs cataloged and a TypeScript SDK with 22 modules and 97 typed methods.
+- **Swandock** — Designed and built a WhatsApp-operated finance, calendar, and workout platform, in production: LLM constrained to translating natural language into structured commands, row-level-security multi-tenancy, Stripe/ASAAS billing, 237 end-to-end tests — NestJS, Prisma/PostgreSQL, Next.js, Groq.
+- **Autonomous AI Agents** — Built a personal platform of autonomous AI agents in Python: an agent mirroring Open Finance data into SQLite and exposing 24+ tools to an LLM over MCP, and a job-hunting agent with a mechanical honesty verifier — Telegram delivery, 600+ tests, unattended on a hardened VPS.
+- **Unimbox** — Built a provider API unifying Telegram, Instagram, and Facebook messaging: hosted OAuth, signed webhooks, normalized DM and comment ingestion, CI running against real PostgreSQL/Redis — NestJS, Fastify, Prisma, BullMQ.
+- **Veluaity** — Led the security and reliability hardening of a multi-tenant WhatsApp-campaign SaaS: stood up CI with 20+ custom automated gates and fixed tenant-isolation, authentication, and payment-webhook vulnerabilities across 28+ tracked specs — Express, Vue.js, PostgreSQL, Redis.
+- **[Brazil Visible](https://github.com/nferdica/brazil-visible)** — Published an open data toolkit: 93+ Brazilian public APIs cataloged and a TypeScript SDK with 22 modules and 97 typed methods.
 
 ## Education
 

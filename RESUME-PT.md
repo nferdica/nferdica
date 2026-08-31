@@ -98,11 +98,11 @@ Engenheiro de software sênior full-stack especializado em TypeScript/Node.js, c
 
 ## Projetos
 
-- **swandock** — Projetei e construí uma plataforma de finanças, agenda e treinos operada por WhatsApp, em produção: LLM restrito a traduzir linguagem natural em comandos estruturados, multi-tenancy com row-level security, cobrança Stripe/ASAAS, 237 testes end-to-end — NestJS, Prisma/PostgreSQL, Next.js, Groq.
-- **Agentes autônomos de IA (Hermes)** — Construí uma plataforma pessoal de agentes autônomos em Python: um agente que espelha dados de Open Finance em SQLite e expõe 24+ ferramentas a um LLM via MCP, e um agente caçador de vagas com verificador mecânico de honestidade — entrega por Telegram, 600+ testes, sem supervisão em VPS hardened.
-- **unimbox** — Construí uma API provedora que unifica mensagens de Telegram, Instagram e Facebook: OAuth hospedado, webhooks assinados, ingestão normalizada de DMs e comentários, CI rodando contra PostgreSQL/Redis reais — NestJS, Fastify, Prisma, BullMQ.
-- **Veluaity (OrbitSender)** — Liderei o hardening de segurança e confiabilidade de um SaaS multi-tenant de campanhas via WhatsApp: montei CI com 20+ gates automatizados e corrigi vulnerabilidades de isolamento de tenant, autenticação e webhook de pagamento em 28+ specs rastreadas — Express, Vue.js, PostgreSQL, Redis.
-- **[brazil-visible](https://github.com/nferdica/brazil-visible)** — Publiquei um toolkit de dados abertos: 93+ APIs públicas brasileiras catalogadas e SDK TypeScript com 22 módulos e 97 métodos tipados.
+- **Swandock** — Projetei e construí uma plataforma de finanças, agenda e treinos operada por WhatsApp, em produção: LLM restrito a traduzir linguagem natural em comandos estruturados, multi-tenancy com row-level security, cobrança Stripe/ASAAS, 237 testes end-to-end — NestJS, Prisma/PostgreSQL, Next.js, Groq.
+- **Agentes autônomos de IA** — Construí uma plataforma pessoal de agentes autônomos em Python: um agente que espelha dados de Open Finance em SQLite e expõe 24+ ferramentas a um LLM via MCP, e um agente caçador de vagas com verificador mecânico de honestidade — entrega por Telegram, 600+ testes, sem supervisão em VPS hardened.
+- **Unimbox** — Construí uma API provedora que unifica mensagens de Telegram, Instagram e Facebook: OAuth hospedado, webhooks assinados, ingestão normalizada de DMs e comentários, CI rodando contra PostgreSQL/Redis reais — NestJS, Fastify, Prisma, BullMQ.
+- **Veluaity** — Liderei o hardening de segurança e confiabilidade de um SaaS multi-tenant de campanhas via WhatsApp: montei CI com 20+ gates automatizados e corrigi vulnerabilidades de isolamento de tenant, autenticação e webhook de pagamento em 28+ specs rastreadas — Express, Vue.js, PostgreSQL, Redis.
+- **[Brazil Visible](https://github.com/nferdica/brazil-visible)** — Publiquei um toolkit de dados abertos: 93+ APIs públicas brasileiras catalogadas e SDK TypeScript com 22 módulos e 97 métodos tipados.
 
 ## Formação
 
