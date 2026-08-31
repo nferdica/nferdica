@@ -8,16 +8,16 @@ Maringá, PR, Brasil · contact@nferdica.me · +55 (44) 98441-7008 · [GitHub](h
 
 ## Resumo
 
-Engenheiro de software sênior full-stack especializado em TypeScript/Node.js, com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Atualmente construo e opero quatro produtos no Grupo 44 — incluindo um SaaS clínico com atendimento assistido por IA rodando em produção — depois de liderar a arquitetura e a entrega de dois produtos na Fibercom. Foco em microserviços, aplicações mobile multiplataforma, sistemas com IA e entregas de alto impacto.
+Engenheiro de software sênior full-stack especializado em TypeScript/Node.js, com experiência em arquitetura de sistemas, liderança técnica e construção de produtos do zero. Atualmente construo e opero quatro produtos no Grupo 44 — incluindo um SaaS clínico com atendimento assistido por IA rodando em produção — depois de liderar a arquitetura e a entrega de dois produtos na Fibercom.
 
 ## Habilidades
 
 **Linguagens**: TypeScript · JavaScript · PHP · Python · Dart · SQL
 **Frontend**: React · Next.js · Angular · Vue.js · React Native · Flutter · Tailwind CSS
-**Backend**: NestJS · Node.js · Fastify · Laravel · REST APIs · Prisma · PostgreSQL · MySQL · MongoDB · Redis
+**Backend**: NestJS · Node.js · Fastify · Laravel · APIs REST · Prisma · PostgreSQL · MySQL · MongoDB · Redis
 **IA & Agentes**: Integrações com LLM (Large Language Model) — OpenAI, Gemini, Groq, AssemblyAI · MCP (Model Context Protocol) · agentes autônomos
 **DevOps & Cloud**: Docker · AWS · CI/CD (GitHub Actions) · Kafka · RabbitMQ · BullMQ · NGINX · Linux
-**Práticas**: Scrum · TDD (Test-Driven Development) · DDD · SOLID · Microserviços · Git
+**Práticas**: Scrum · TDD (Test-Driven Development) · DDD (Domain-Driven Design) · SOLID · Microsserviços
 
 ## Experiência
 
@@ -28,9 +28,9 @@ Engenheiro de software sênior full-stack especializado em TypeScript/Node.js, c
 > _Remoto_
 
 - Construo e opero quatro produtos do grupo de ponta a ponta — arquitetura, desenvolvimento, infraestrutura e operação em produção.
-- Construí o AIME, SaaS clínico em produção: transcrição de consultas e copiloto com IA, faturamento TISS/ANS, CRM via WhatsApp e portal do paciente — NestJS, Next.js, Prisma/PostgreSQL, Redis.
-- Entreguei os fluxos de pagamento e inscrição do Rivus, plataforma de eventos esportivos em produção: pagamentos Asaas com taxa e estorno e trava de duplicidade por CPF — Flutter, NestJS, Next.js.
-- Desenvolvi o Quem Contrato, marketplace de serviços via WhatsApp: canal de bot Meta WABA, matching cliente-profissional e apps Android nativos — Next.js, Drizzle/PostgreSQL.
+- Construí o AIME, SaaS clínico em produção: transcrição de consultas e copiloto com IA, faturamento TISS/ANS, CRM via WhatsApp e portal do paciente — NestJS (Node.js), Next.js, Prisma/PostgreSQL, Redis, Docker.
+- Entreguei os fluxos de pagamento e inscrição do Rivus, plataforma de eventos esportivos em produção: pagamentos Asaas com taxa, estorno e trava de duplicidade por CPF — Flutter, NestJS, Next.js.
+- Desenvolvi o Quem Contrato, marketplace de serviços via WhatsApp: canal de bot Meta WABA, matching entre clientes e profissionais e apps Android nativos — Next.js, Drizzle/PostgreSQL.
 - Projetei o motor de comissões da Ervanza, plataforma de vendas diretas (pré-lançamento): ledger em cinco níveis com trilha de auditoria imutável — NestJS/Fastify, Next.js.
 
 ---
@@ -42,7 +42,7 @@ Engenheiro de software sênior full-stack especializado em TypeScript/Node.js, c
 > _Maringá, PR · Remoto_
 
 - Liderei a arquitetura, a escalabilidade e a entrega de dois produtos como engenheiro sênior responsável por todas as decisões técnicas.
-- Arquitetei uma plataforma white-label que gera apps de marca própria para provedores de internet, com microserviços e isolamento de dados por provedor — NestJS, Angular, Flutter.
+- Arquitetei uma plataforma white-label que gera apps de marca própria para provedores de internet, com microsserviços e isolamento de dados por provedor — NestJS, Angular, Flutter.
 - Construí um marketplace de técnicos de campo estilo Uber, com geolocalização e gestão de ordens de serviço — React Native, NestJS.
 
 ---
@@ -60,27 +60,20 @@ Engenheiro de software sênior full-stack especializado em TypeScript/Node.js, c
 ### Engenheiro de Software Pleno
 
 > ##### ClubMed Saúde e Telemedicina · Tempo integral
-> _Fev 2025 – Jul 2025_
+> _Out 2024 – Jul 2025_
 > _Maringá, PR_
+
+_Engenheiro de Software Júnior (Out 2024 – Fev 2025), promovido a Pleno (Fev 2025 – Jul 2025)._
 
 - Reestruturei módulos críticos de uma plataforma de telemedicina que processa 1.000+ consultas por mês, viabilizando o crescimento da base de usuários.
-- Integrei serviços de videoconferência e prontuário eletrônico; promovido a pleno com influência direta nas decisões de escalabilidade.
-
----
-
-### Engenheiro de Software Júnior
-
-> ##### ClubMed Saúde e Telemedicina · Tempo integral
-> _Out 2024 – Fev 2025_
-> _Maringá, PR_
-
+- Integrei serviços de videoconferência e prontuário eletrônico, com influência direta nas decisões de escalabilidade.
 - Construí funcionalidades de front-end e back-end com Laravel e Angular, corrigi bugs, integrei APIs e participei de cerimônias ágeis e code reviews.
 
 ---
 
 ### Estagiário de Engenharia de Software
 
-> ##### IgoPass · Estágio
+> ##### IgoPass
 > _Set 2024 – Out 2024_
 > _Maringá, PR · Remoto_
 
@@ -98,10 +91,10 @@ Engenheiro de software sênior full-stack especializado em TypeScript/Node.js, c
 
 ## Projetos
 
-- **Swandock** — Projetei e construí uma plataforma de finanças, agenda e treinos operada por WhatsApp, em produção: LLM restrito a traduzir linguagem natural em comandos estruturados, multi-tenancy com row-level security, cobrança Stripe/ASAAS, 237 testes end-to-end — NestJS, Prisma/PostgreSQL, Next.js, Groq.
+- **Swandock** — Projetei e construí uma plataforma de finanças, agenda e treinos operada via WhatsApp, em produção: LLM restrito a traduzir linguagem natural em comandos estruturados, multi-tenancy com row-level security, cobrança Stripe/Asaas, 237 testes end-to-end — NestJS, Prisma/PostgreSQL, Next.js, Groq.
 - **Agentes autônomos de IA** — Construí uma plataforma pessoal de agentes autônomos em Python: um agente que espelha dados de Open Finance em SQLite e expõe 24+ ferramentas a um LLM via MCP, e um agente caçador de vagas com verificador mecânico de honestidade — entrega por Telegram, 600+ testes, sem supervisão em VPS hardened.
-- **Unimbox** — Construí uma API provedora que unifica mensagens de Telegram, Instagram e Facebook: OAuth hospedado, webhooks assinados, ingestão normalizada de DMs e comentários, CI rodando contra PostgreSQL/Redis reais — NestJS, Fastify, Prisma, BullMQ.
-- **Veluaity** — Liderei o hardening de segurança e confiabilidade de um SaaS multi-tenant de campanhas via WhatsApp: montei CI com 20+ gates automatizados e corrigi vulnerabilidades de isolamento de tenant, autenticação e webhook de pagamento em 28+ specs rastreadas — Express, Vue.js, PostgreSQL, Redis.
+- **Unimbox** — Construí uma API provedora que unifica mensagens de Telegram, Instagram e Facebook: OAuth hospedado, webhooks assinados, ingestão normalizada de DMs e comentários, CI (GitHub Actions) com suítes Jest rodando contra PostgreSQL/Redis reais — NestJS, Fastify, Prisma, BullMQ.
+- **Veluaity** — Liderei o hardening de segurança e confiabilidade de um SaaS multi-tenant de campanhas via WhatsApp: montei CI no GitHub Actions com 20+ gates automatizados e corrigi vulnerabilidades de isolamento de tenant, autenticação e webhook de pagamento em 28+ specs rastreadas — Express, Vue.js, PostgreSQL, Redis.
 - **[Brazil Visible](https://github.com/nferdica/brazil-visible)** — Publiquei um toolkit de dados abertos: 93+ APIs públicas brasileiras catalogadas e SDK TypeScript com 22 módulos e 97 métodos tipados.
 
 ## Formação
