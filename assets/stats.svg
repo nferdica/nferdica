@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Nathan Ferdinando's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Commits  : 8534, Total PRs: 2133, Total Issues: 201, Contributed to (last year): 25</desc>
+        <desc id="descId">Total Commits  : 8535, Total PRs: 2133, Total Issues: 201, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 43.55928569683442;
+        stroke-dashoffset: 43.559207394703506;
       }
     }
   
